@@ -1,4 +1,4 @@
-# 68206 Complaints Assignment
+# Complaints project
 
 Machine learning pipeline that predicts whether a consumer disputes a company's
 response to a complaint, built on the CFPB Consumer Complaint Database schema
