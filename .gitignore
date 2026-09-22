@@ -1,0 +1,19 @@
+# Course material (not our own work, kept out of a public repo)
+Assignement 1_2026ML_final_v2.pdf
+
+# Raw training data (122MB, exceeds GitHub's file size limit)
+complaints_training.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
